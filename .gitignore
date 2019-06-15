@@ -1,0 +1,54 @@
+/[Bb]in/
+/[Bb]uild/
+/[Dd]ebug/
+/[Rr]elease/
+/**/.vs/
+
+# MSVC user extensions
+*.opensdf
+*.sdf
+*.suo
+*.filters
+*.user
+*.obj
+*.pdb
+*.idb
+*.log
+*.tlog
+*.lastbuildstate
+*.exp
+*.opendb
+*.ini
+*.ilk
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
